@@ -1,0 +1,6 @@
+<xmlPath>
+	<myPath albumName="my composition" xmlFile="songlist1.xml">
+  </myPath>
+	<myPath albumName="my performance" xmlFile="songlist2.xml">
+  </myPath>
+</xmlPath>

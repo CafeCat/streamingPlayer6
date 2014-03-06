@@ -1,0 +1,20 @@
+<database>
+  <Index mylabel="Morning" mydata="http://liyanekim.izlenim.com/compose/morning.mp3">
+  </Index>
+  <Index mylabel="Class Based" mydata="http://liyanekim.izlenim.com/compose/classBase.mp3">
+  </Index>
+	<Index mylabel="I am just a cat!" mydata="http://liyanekim.izlenim.com/compose/I_am_just_a_cat.mp3">
+  </Index>
+	<Index mylabel="Friends" mydata="http://liyanekim.izlenim.com/compose/friend.mp3">
+  </Index>
+	<Index mylabel="Mirror" mydata="http://liyanekim.izlenim.com/compose/mirror.mp3">
+  </Index>
+	<Index mylabel="sonata kh5" mydata="http://liyanekim.izlenim.com/performance/beethovenkh5.mp3">
+  </Index>
+	<Index mylabel="opus 19.4" mydata="http://liyanekim.izlenim.com/performance/lied_ohne_worte_op19.4_3.mp3">
+  </Index>
+	<Index mylabel="Chopin-op10.1" mydata="http://liyanekim.izlenim.com/performance/chopin_etud_op.10.1.mp3">
+  </Index>
+	<Index mylabel="Chopin-op66" mydata="http://liyanekim.izlenim.com/performance/chopin_fantisie_op.66.mp3">
+  </Index>
+</database>
